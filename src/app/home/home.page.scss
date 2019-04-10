@@ -1,0 +1,42 @@
+.welcome-card ion-img {
+  max-height: 35vh;
+  overflow: hidden;
+}
+
+
+
+ion-content{
+  --background: white;
+
+  ion-label {
+    width: 100%;
+  }
+  .face {
+    color:  #4682B4 ;
+    font-size: 64px;
+    width: 30% 
+  }
+  .tt{
+    color:  #4682B4 ;
+    font-size: 64px;
+    width: 30% 
+  }
+  .insta {
+    color: #8a3ab9;
+    font-size: 64px;
+    width: 30% 
+  }
+ 
+
+
+  .inputPlaceField {
+    --background: black;}
+  .buttonField {
+    --background: #0af14f;
+    --background-activated: #1708e9;
+    }
+    .buttonField2 {
+      --background: #A9A9A9;
+      --background-activated: #1708e9;
+      }
+    }
